@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Streamlit App",
+			"type": "shell",
+			"command": "\"c:/Users/DELL/OneDrive/Desktop/Personal/BatraHedge BACKUP/BatraHedge/.venv/Scripts/python.exe\" -m streamlit run straddle_scalper/app.py",
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "none"
+		}
+	]
+}

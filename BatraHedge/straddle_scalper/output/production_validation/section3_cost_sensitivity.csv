@@ -1,0 +1,6 @@
+label,net_pnl,total_costs,sharpe_net,cagr_pct,rom_ann_pct,pf_net,max_dd_pct
+Current costs,35690.0,24535.0,4.64,2.42,24.73,2.12,-0.31
+50% brokerage,45650.0,14575.0,5.93,3.09,31.22,2.589,-0.23
+Zero brokerage,55610.0,4615.0,7.22,3.76,37.56,3.151,-0.22
+2× slippage,32861.0,27364.0,4.26,2.23,22.85,1.997,-0.34
+Zero all costs,60225.0,0.0,7.83,4.07,40.45,3.461,-0.2

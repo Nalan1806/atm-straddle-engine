@@ -1,0 +1,5 @@
+regime,trades,return,sharpe,avg_pnl
+iv_rising,0,0,,0
+iv_falling,0,0,,0
+high_range,0,0,,0
+low_range,0,0,,0

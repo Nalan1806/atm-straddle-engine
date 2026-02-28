@@ -1,0 +1,3 @@
+config,trades,win_rate,gross_pnl,net_pnl,total_ret_pct,rom_pct,rom_ann_pct,sharpe_gross,sharpe_net,pf_gross,pf_net,max_dd_pct,margin,rolling_sharpe_net_avg,rolling_positive_pct,rolling_sharpe_gross_avg
+SL=20%,249,66.7,60225.0,35690.0,3.57,38.3,24.73,7.83,4.64,3.461,2.12,-0.31,93191.0,4.82,100.0,8.21
+SL=25%,249,66.7,60225.0,35690.0,3.57,38.3,24.73,7.83,4.64,3.461,2.12,-0.31,93191.0,4.82,100.0,8.21

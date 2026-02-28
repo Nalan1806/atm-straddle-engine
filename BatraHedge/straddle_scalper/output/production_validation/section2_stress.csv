@@ -1,0 +1,4 @@
+scenario,spot_move,iv_spike,entry_premium,exit_premium,gross_pnl,txn_cost,stress_slippage,net_pnl_normal,net_pnl_stress,pct_margin_normal,pct_margin_stress
+A: +2% trend day,+497 pts (+2%),+3.0%,459.21,686.83,-5691.0,102.0,86.0,-5792.0,-5878.0,-6.22,-6.31
+B: -2% trend day,-497 pts (-2%),+3.0%,459.21,686.83,-5691.0,102.0,86.0,-5792.0,-5878.0,-6.22,-6.31
+C: +1.5% spike (3 candles),+373 pts (+1.5%),+5.0%,459.21,620.37,-4029.0,101.0,78.0,-4130.0,-4207.0,-4.43,-4.51

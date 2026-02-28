@@ -1,0 +1,2 @@
+total_trades,winning_trades,losing_trades,win_rate,total_pnl,total_return,cagr,max_drawdown,avg_win,avg_loss,max_win,max_loss,profit_factor,sharpe_ratio,avg_hold_minutes,avg_txn_cost,initial_capital,ending_equity,days_in_backtest,exits_breakout_stop,exits_time_stop,exits_profit_target
+249,131,118,0.5261,3840.19,0.0038,0.0026,-0.0043,286.82,-285.87,1106.73,-1562.08,1.1138,0.6675,114.1,98.6,1000000.0,1003840.19,536,189,35,25
