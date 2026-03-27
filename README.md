@@ -171,8 +171,4 @@ Results are from backtesting over 369 trading days (Aug 2024–Feb 2026) with fu
 
 All results presented are backtested and subject to the limitations inherent in historical simulation. Past performance is not indicative of future results. Short option strategies carry theoretically unlimited risk. The analysis assumes normal market conditions and standard execution quality. Liquidity deterioration during extreme events, structural regime changes, and execution gaps between signal and fill are residual risks that cannot be fully modelled.
 
----
 
-## License
-
-Internal use only — BatraHedge.
